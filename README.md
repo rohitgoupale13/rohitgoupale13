@@ -41,8 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitgoupale13&show_icons=true&theme=react" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgoupale13&layout=compact&theme=react" height="165">
