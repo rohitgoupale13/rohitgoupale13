@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React.js, and DBMS** at **Navgurukul**  
 - 💞️ I’m looking to collaborate on **Open Source Projects and Web Development**  
 - 📫 How to reach me:  
-- 📩 **Email:**rohitgoupale23@avgurukul.org**  
+- 📩 **Email:**rohitgoupale23@navgurukul.org**  
 
 - ⚡ Fun fact: **I also enjoy vlogging about village life!** 🎥🌿  
 
