@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 👀 I’m passionate about **Frontend Development**, **UI/UX Design**, and **Web Technologies**
+- 👀 I’m passionate about **Frontend Development**, and **Web Technologies**
 - 🌱 Currently learning **React.js** & **DBMS** at **Navgurukul**
 - 💞️ Looking to **collaborate on Open Source Projects** and **build amazing UIs**
 - 📫 Reach me at: **rohitgoupale23@navgurukul.org**
