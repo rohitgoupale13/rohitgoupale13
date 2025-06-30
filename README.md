@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rohit Goupale (@rohitgoupale13)</h1>
 
-<p align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🎨 UI/UX Explorer</p>
+<p align="center">|💻 Frontend Developer | 🌐 Web Enthusiast | </p>
 
 ---
 
