@@ -1,52 +1,73 @@
-<h1 align="center">👋 Hi, I'm Rohit Goupale (@rohitgoupale13)</h1>
+<h1 align="center" style="font-family:'Segoe UI', sans-serif; color:#2f80ed; animation: fadeIn 2s ease-in;">
+  👋 Hi, I'm <span style="color:#27ae60;">Rohit Goupale</span> (@rohitgoupale13)
+</h1>
 
-<p align="center">|💻 Frontend Developer | 🌐 Web Enthusiast | </p>
+<p align="center" style="font-size:18px; font-weight:bold;">
+  💻 Frontend Developer | 🌐 Web Enthusiast
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 👀 I’m passionate about **Frontend Development**, and **Web Technologies**
-- 🌱 Currently learning **React.js** & **DBMS** at **Navgurukul**
-- 💞️ Looking to **collaborate on Open Source Projects** and **build amazing UIs**
-- 📫 Reach me at: **rohitgoupale23@navgurukul.org**
-- 🎥 Fun fact: I love **vlogging about village life**! 🌿📷
+<div style="font-size:16px; line-height:1.7;">
+  • 👀 Passionate about <b>Frontend Development</b> & <b>Web Technologies</b><br/>
+  • 🌱 Currently learning <b>React.js</b> & <b>DBMS</b> at <b>Navgurukul</b><br/>
+  • 💞 Looking to collaborate on <b>Open Source Projects</b> and <b>UI Development</b><br/>
+  • 📫 Reach me at: <a href="mailto:rohitgoupale23@navgurukul.org">rohitgoupale23@navgurukul.org</a><br/>
+  • 🎥 Fun fact: I love <b>vlogging about village life</b> 🌿📷
+</div>
 
 ---
 
 ### 🛠 Tech Stack
 
 #### 💻 Languages
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-#### ⚛️ Frameworks/Libraries
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+#### ⚛️ Frameworks / Libraries
+<p>
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 #### 🖥 Backend (Learning)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 #### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ### ✨ Quote I Live By
 
-> ⭐ _"Code with passion, create with vision!"_
+> <span style="font-size:18px;">⭐ <i>"Code with passion, create with vision!"</i></span>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitgoupale13&show_icons=true&theme=react" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgoupale13&layout=compact&theme=react" height="165">
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitgoupale13&show_icons=true&theme=tokyonight&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgoupale13&layout=compact&theme=tokyonight&border_radius=12" height="165"/>
+</div>
 
 ---
 
-<!-- Add any project links or pinned repos below if needed -->
+<!-- Projects can be linked here -->
+<!--
+### 📌 Featured Projects
+
+- 🔗 [My Portfolio Website](https://yourwebsite.com)
+- 🔗 [Favorite React Project](https://github.com/yourrepo)
+-->
